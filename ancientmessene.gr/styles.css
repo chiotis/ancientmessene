@@ -1,0 +1,142 @@
+body,html { background-image:url(images/bg.jpg);
+background-repeat:repeat-x;
+background-position:center;
+background-position:top;
+margin:0px;
+margin-top:0px;
+margin-bottom:0px;
+margin-left:0px;
+margin-right:0px;
+  }
+  
+  		a img { 
+border: 0; 
+} 
+a {outline: none;}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+
+  .txt { font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size:12px;
+  color:#000000;
+  line-height:17px;
+}
+
+a.txt:visited {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #000000;
+font-weight:bold;
+
+}
+
+a.txt:hover {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #9A8A66;
+font-weight:bold;
+text-decoration:underline;
+
+}
+
+a.txt:active {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #000000;
+font-weight:bold;
+
+}
+
+  .txt_white { font-family: Verdana, Arial, Helvetica, sans-serif; 
+  font-size:12px;
+  color:#ffffff;
+  line-height:17px;
+  padding-left:55px;
+  padding-bottom:10px;
+}
+   
+.content {padding-left:25px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#000000;
+line-height:17px;
+} 
+
+.articles {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px;	color: #ffffff;
+font-weight: bold;
+}
+
+a.articles:visited {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #ffffff;
+font-weight:bold;
+
+}
+
+a.articles:hover {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #595959;
+font-weight:bold;
+text-decoration:underline;
+
+}
+
+a.articles:active {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #ffffff;
+font-weight:bold;
+
+}
+
+.links {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px;	color: #000000;
+}
+
+a.links:visited {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #000000;
+}
+
+a.links:hover {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #9A8A66;
+}
+
+a.links:active {
+font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:12px; color: #9A8A66;
+}
+  
+  .gallery {border:#cccccc 1px solid;
+ border-radius:7px; behavior: url(pie.html); position:relative;
+ }	
+ 
+ .left { background-image: url(images/bg_bottom_left.html); }
+ 
+ .button { color: #ffffff; font-size:11px; background-color:#9e9e9e; border:#cccccc 2px outset; height:23px; 
+font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold;
+ }
+ 
+ .td_menu {background-image:url(images/bg_left.png);}
+ 
+ .footer {
+ background:url(images/ancientmessene_24.png) no-repeat;
+ width:960px;
+ height:160px;
+ font-family:Verdana, Arial, Helvetica, sans-serif;
+ font-weight:bold;
+ font-size:12px;
+ color:#FFFFFF;
+ padding:0 0 0 220px;
+ }
